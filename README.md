@@ -1,7 +1,7 @@
-###👋 Hi there 
-### 🔭 I’m currently exploring all domains
-### 📫 How to reach me: msranjana22@gmail.com
-###🙃 Will fill this soon
+👋 Hi there 
+🔭 I’m currently exploring all domains
+📫 How to reach me: msranjana22@gmail.com
+🙃 Will fill this soon
 
 
 <!--
